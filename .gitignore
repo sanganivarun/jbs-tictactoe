@@ -42,3 +42,5 @@ sysinfo.txt
 
 
 # End of https://www.gitignore.io/api/unity
+XANDO/Library/il2cpp_android_arm64-v8a/il2cpp_cache/linkresult_7740671FA39853BB5E52F4CFF1F28DF6/libil2cpp.so
+XANDO/Library/il2cpp_android_armeabi-v7a/il2cpp_cache/linkresult_AFA24C61696B7149EBE2BECE1584A348/libil2cpp.so
