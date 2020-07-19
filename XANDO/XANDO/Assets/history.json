@@ -1,0 +1,893 @@
+[
+  {
+    "Empire": "Kalabhra Empire",
+    "Established": 250,
+    "Disestablished": 600,
+    "Capitals": "Kaveripumpattinam, Madurai",
+    "Languages": "Prakrit, Tamil",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Gupta Empire",
+    "Established": 275,
+    "Disestablished": 590,
+    "Capitals": "Pataliputra",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India Bangladesh Pakistan   Nepal",
+    "Map": ""
+  },
+  {
+    "Empire": "Paurava Dynasty (reinstated)[4]",
+    "Established": "c. 4th Century AD",
+    "Disestablished": "c. 7th Century AD?",
+    "Capitals": "Brahmapur",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Pallava Empire",
+    "Established": 275,
+    "Disestablished": 897,
+    "Capitals": "Kanchipuram",
+    "Languages": "Tamil, Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Licchavi",
+    "Established": "305 AD",
+    "Disestablished": "1200 AD",
+    "Capitals": "Kathmandu",
+    "Languages": "Vajjika, Sanskrit, Maithili language",
+    "TodayPartOf": "Nepal India Bhutan",
+    "Map": ""
+  },
+  {
+    "Empire": "Kataha",
+    "Established": 330,
+    "Disestablished": 1136,
+    "Capitals": "Kataha",
+    "Languages": "Old Malay, Sanskrit",
+    "TodayPartOf": "Malaysia",
+    "Map": ""
+  },
+  {
+    "Empire": "Kadamba Empire",
+    "Established": 345,
+    "Disestablished": 525,
+    "Capitals": "Banavasi",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Aulikara Dynasty",
+    "Established": 350,
+    "Disestablished": 550,
+    "Capitals": "Mandsaur",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Western Ganga Dynasty",
+    "Established": 350,
+    "Disestablished": 575,
+    "Capitals": "Talakadu, kolar",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kamarupa Kingdom",
+    "Established": 350,
+    "Disestablished": 1140,
+    "Capitals": "Pragjyotishpura, Haruppeswara, Durjaya",
+    "Languages": "Assamese, Prakrit, Sanskrit",
+    "TodayPartOf": "India Bhutan Bangladesh Myanmar",
+    "Map": ""
+  },
+  {
+    "Empire": "Tarumanagara Kingdom",
+    "Established": 358,
+    "Disestablished": 669,
+    "Capitals": "Sundapura",
+    "Languages": "Sundanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Vishnukundina Dynasty",
+    "Established": 420,
+    "Disestablished": 624,
+    "Capitals": "Nalgonda, Eluru, Amaravati",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Sharabhapuriya Dynasty",
+    "Established": 465,
+    "Disestablished": 590,
+    "Capitals": "Sharabhapura",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Maitraka Dynasty",
+    "Established": 475,
+    "Disestablished": 776,
+    "Capitals": "Vallabhi",
+    "Languages": "Apabhramsa, Prakrit, Sanskrit, Sauraseni",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Pushyabhuti Dynasty",
+    "Established": 500,
+    "Disestablished": 647,
+    "Capitals": "Sthanvishvara, Kanyakubja",
+    "Languages": "-",
+    "TodayPartOf": "India Bangladesh   Nepal Bhutan Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Nala Kingdom",
+    "Established": 515,
+    "Disestablished": 585,
+    "Capitals": "Pushkari",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Rai Dynasty",
+    "Established": 524,
+    "Disestablished": 632,
+    "Capitals": "Aror",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Chalukya Dynasty",
+    "Established": 543,
+    "Disestablished": 753,
+    "Capitals": "Badami",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kalachuri Dynasty",
+    "Established": 550,
+    "Disestablished": 620,
+    "Capitals": "Mahishmati",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Chenla Empire",
+    "Established": 550,
+    "Disestablished": 802,
+    "Capitals": "Shrestapura, Bhavapura, Isanapura, Shambhupura",
+    "Languages": "Khmer, Sanskrit",
+    "TodayPartOf": "Cambodia Thailand Laos Vietnam",
+    "Map": ""
+  },
+  {
+    "Empire": "Chahamana Dynasty",
+    "Established": 550,
+    "Disestablished": 1194,
+    "Capitals": "Shakambhari",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Maukhari Dynasty",
+    "Established": 550,
+    "Disestablished": 800,
+    "Capitals": "Kannauj",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kalingga Kingdom",
+    "Established": 550,
+    "Disestablished": 650,
+    "Capitals": "-",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Gauda Kingdom",
+    "Established": 590,
+    "Disestablished": 626,
+    "Capitals": "Karnasuvarna",
+    "Languages": "-",
+    "TodayPartOf": "India Bangladesh",
+    "Map": ""
+  },
+  {
+    "Empire": "Panduvamshi Dynasty",
+    "Established": 600,
+    "Disestablished": 790,
+    "Capitals": "Shripura",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Eastern Chalukya Empire",
+    "Established": 624,
+    "Disestablished": 1189,
+    "Capitals": "Vengi, Rajahmundry",
+    "Languages": "Sanskrit, Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Karkota Empire",
+    "Established": 625,
+    "Disestablished": 885,
+    "Capitals": "Srinagar, Parihaspore, Srinagar",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India Pakistan Afghanistan Bangladesh",
+    "Map": ""
+  },
+  {
+    "Empire": "Brahman Dynasty of Sindh",
+    "Established": 632,
+    "Disestablished": 724,
+    "Capitals": "-",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "Pakistan Iran",
+    "Map": ""
+  },
+  {
+    "Empire": "Srivijaya Empire",
+    "Established": 650,
+    "Disestablished": 1377,
+    "Capitals": "Palembang, Kewu, Chaiya, Jambi",
+    "Languages": "Old Malay, Sanskrit",
+    "TodayPartOf": "Indonesia Malaysia Singapore Thailand Cambodia Philippines Vietnam Brunei",
+    "Map": ""
+  },
+  {
+    "Empire": "Shailendra Dynasty",
+    "Established": 650,
+    "Disestablished": 1025,
+    "Capitals": "Batang, Kalingga",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Galuh Kingdom",
+    "Established": 669,
+    "Disestablished": 1482,
+    "Capitals": "Kawali",
+    "Languages": "Sundanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Sunda Kingdom",
+    "Established": 669,
+    "Disestablished": 1579,
+    "Capitals": "Kawali, Pakuan Pajajaran",
+    "Languages": "Sundanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Kalachuri Tripuri Dynasty",
+    "Established": 675,
+    "Disestablished": 1212,
+    "Capitals": "Tripuri",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Chavda Dynasty",
+    "Established": 690,
+    "Disestablished": 942,
+    "Capitals": "Panchasar, Aṇahilaváḍa",
+    "Languages": "Old Gujarati, Prakrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Mallabhum Kingdom",
+    "Established": 694,
+    "Disestablished": 1800,
+    "Capitals": "Bengali, Sanskrit",
+    "Languages": "Laugram, Pradyumnapur, Bishnupur",
+    "TodayPartOf": "India Bangladesh",
+    "Map": ""
+  },
+  {
+    "Empire": "Limbuwan",
+    "Established": "7th Century CE",
+    "Disestablished": 1774,
+    "Capitals": "Morang, Bijaypur",
+    "Languages": "Limbu, Lepcha",
+    "TodayPartOf": "Nepal India Bhutan",
+    "Map": ""
+  },
+  {
+    "Empire": "Gurjara-Pratihara Dynasty",
+    "Established": 730,
+    "Disestablished": 1036,
+    "Capitals": "Kannauj",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India   Nepal",
+    "Map": ""
+  },
+  {
+    "Empire": "Mataram Kingdom",
+    "Established": 732,
+    "Disestablished": 1006,
+    "Capitals": "Mdaη i Bhumi Mataram, Mamrati, Poh Pitu, Mdaη i Tamwlang, Mdaη i Watugaluh, Mdaη i Wwatan",
+    "Languages": "Old Javanese,  Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Saindhava Dynasty",
+    "Established": 735,
+    "Disestablished": 920,
+    "Capitals": "Bhutamabilika",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Tomara Dynasty",
+    "Established": 736,
+    "Disestablished": 1151,
+    "Capitals": "Delhi",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Pala Empire",
+    "Established": 750,
+    "Disestablished": 1199,
+    "Capitals": "Bikrampur, Pataliputra, Gauda, Monghyr, Somapura, Mahipal, Ramavati",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "Bangladesh India   Nepal Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Haripunjaya Kingdom",
+    "Established": 750,
+    "Disestablished": 1292,
+    "Capitals": "Lamphun",
+    "Languages": "Thai",
+    "TodayPartOf": "Thailand",
+    "Map": ""
+  },
+  {
+    "Empire": "Rashtrakuta Empire",
+    "Established": 753,
+    "Disestablished": 982,
+    "Capitals": "Manyakheta",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Khmer Empire",
+    "Established": 802,
+    "Disestablished": 1431,
+    "Capitals": "Mahendraparvata, Hariharalaya, Koh Ker, Yasodharapura",
+    "Languages": "Khmer, Sanskrit",
+    "TodayPartOf": "Cambodia Laos Myanmar Thailand Vietnam",
+    "Map": ""
+  },
+  {
+    "Empire": "Chudasama Dynasty",
+    "Established": 825,
+    "Disestablished": 1472,
+    "Capitals": "Vamanasthali, Junagadh",
+    "Languages": "Old Gujarati, Prakrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Later Chola Empire",
+    "Established": 848,
+    "Disestablished": 1279,
+    "Capitals": "Pazhaiyaarai, Thanjavur, Gangaikonda Cholapuram",
+    "Languages": "Tamil",
+    "TodayPartOf": "India Sri Lanka Maldives Indonesia Singapore Malaysia",
+    "Map": ""
+  },
+  {
+    "Empire": "Somavamshi Dynasty",
+    "Established": 850,
+    "Disestablished": 1150,
+    "Capitals": "Yayatinagara",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Yadava Dynasty",
+    "Established": 850,
+    "Disestablished": 1334,
+    "Capitals": "Devagiri",
+    "Languages": "Kannada, Marathi, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Utpala Dynasty",
+    "Established": 855,
+    "Disestablished": 1003,
+    "Capitals": "Avantipur",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India Afghanistan Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Hindu Shahi Dynasty",
+    "Established": 879,
+    "Disestablished": 1026,
+    "Capitals": "Kabul",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "Pakistan Afghanistan India",
+    "Map": ""
+  },
+  {
+    "Empire": "Paramara Dynasty",
+    "Established": 900,
+    "Disestablished": 1305,
+    "Capitals": "Dhar",
+    "Languages": "Prakrit, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Bali Kingdom",
+    "Established": 914,
+    "Disestablished": 1908,
+    "Capitals": "Bedulu, Samprangan, Gelgel, Klungkung",
+    "Languages": "Kawi, Balinese",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Pagan Empire",
+    "Established": 940,
+    "Disestablished": 1297,
+    "Capitals": "Pagan",
+    "Languages": "Burmese, Mon, Pyu",
+    "TodayPartOf": "Myanmar",
+    "Map": ""
+  },
+  {
+    "Empire": "Khasa Kingdom",
+    "Established": 954,
+    "Disestablished": 1450,
+    "Capitals": "Sinja Valley",
+    "Languages": "Khas, Sanskrit",
+    "TodayPartOf": "Nepal",
+    "Map": ""
+  },
+  {
+    "Empire": "Western Chalukya Empire",
+    "Established": 973,
+    "Disestablished": 1189,
+    "Capitals": "Manyakheta, Basavakalyan",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Rajahnate of Butuan",
+    "Established": 1001,
+    "Disestablished": 1756,
+    "Capitals": "Butuan",
+    "Languages": "Butuanon, Old Malay",
+    "TodayPartOf": "Philippines",
+    "Map": ""
+  },
+  {
+    "Empire": "Lohara Dyansty",
+    "Established": 1003,
+    "Disestablished": 1320,
+    "Capitals": "Srinagar",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India Afghanistan Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Kingdom of Polonnaruwa",
+    "Established": 1017,
+    "Disestablished": 1310,
+    "Capitals": "Polonnaruwa",
+    "Languages": "Pali, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kahuripan Kingdom",
+    "Established": 1019,
+    "Disestablished": 1045,
+    "Capitals": "Kahuripan",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Hoysala Empire",
+    "Established": 1026,
+    "Disestablished": 1343,
+    "Capitals": "Halebidu, Belur",
+    "Languages": "Kannada, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Janggala Kingdom",
+    "Established": 1045,
+    "Disestablished": 1136,
+    "Capitals": "Hujung, Galuh",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Kediri Kingdom",
+    "Established": 1045,
+    "Disestablished": 1221,
+    "Capitals": "Kadiri",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Sena Dynasty",
+    "Established": 1070,
+    "Disestablished": 1230,
+    "Capitals": "Nabadwip",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "Bangladesh India",
+    "Map": ""
+  },
+  {
+    "Empire": "Eastern Ganga Empire",
+    "Established": 1078,
+    "Disestablished": 1434,
+    "Capitals": "Dantapura, Kalinganagara, Kataka",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Gahadavala Dynasty",
+    "Established": 1080,
+    "Disestablished": 1194,
+    "Capitals": "Varanasi, Kanyakubja",
+    "Languages": "Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Karnat Dynasty",
+    "Established": 1097,
+    "Disestablished": 1324,
+    "Capitals": "Simraungadh",
+    "Languages": "Maithili Language",
+    "TodayPartOf": "Nepal India",
+    "Map": ""
+  },
+  {
+    "Empire": "Chero dynasty",
+    "Established": "12th CE",
+    "Disestablished": "18th CE",
+    "Capitals": "",
+    "Languages": "Bhojpuri, Nagpuri",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Sambhuvaraya Dynasty",
+    "Established": 1150,
+    "Disestablished": 1375,
+    "Capitals": "Rajagambhiram, Padaveedu",
+    "Languages": "Sanskrit, Tamil",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Vanni Nadu Dynasty",
+    "Established": 1150,
+    "Disestablished": 1803,
+    "Capitals": "Vanni",
+    "Languages": "Tamil",
+    "TodayPartOf": "Sri Lanka",
+    "Map": ""
+  },
+  {
+    "Empire": "Deva Dynasty",
+    "Established": 1156,
+    "Disestablished": 1250,
+    "Capitals": "Bikrampur",
+    "Languages": "Bengali, Sanskrit",
+    "TodayPartOf": "Bangladesh India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kakatiya Dynasty",
+    "Established": 1163,
+    "Disestablished": 1323,
+    "Capitals": "Orugallu",
+    "Languages": "Sanskrit, Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Khen Dynasty",
+    "Established": 1185,
+    "Disestablished": 1498,
+    "Capitals": "Kamarupanagara, Kamatapura",
+    "Languages": "Assamese, Kamtapuri",
+    "TodayPartOf": "India Myanmar",
+    "Map": ""
+  },
+  {
+    "Empire": "Sutiya Kingdom",
+    "Established": 1187,
+    "Disestablished": 1673,
+    "Capitals": "Swarnagiri, Ratnapur, Sadiya",
+    "Languages": "Assamese",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Malla Dynasty",
+    "Established": 1200,
+    "Disestablished": 1768,
+    "Capitals": "Bhaktapur, Kathmandu, Patan, Nepal",
+    "Languages": "Newari, Nepali, Sanskrit, Maithili Language",
+    "TodayPartOf": "Nepal India China",
+    "Map": ""
+  },
+  {
+    "Empire": "Jaffna Kingdom",
+    "Established": 1215,
+    "Disestablished": 1624,
+    "Capitals": "Nallur",
+    "Languages": "Tamil",
+    "TodayPartOf": "Sri Lanka",
+    "Map": ""
+  },
+  {
+    "Empire": "Singhasari Kingdom",
+    "Established": 1222,
+    "Disestablished": 1292,
+    "Capitals": "Tumapel",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia",
+    "Map": ""
+  },
+  {
+    "Empire": "Ahom Kingdom",
+    "Established": 1228,
+    "Disestablished": 1826,
+    "Capitals": "Charaideo, Garhgaon, Rangpur, Jorhat",
+    "Languages": "Assamese, Tai-Ahom",
+    "TodayPartOf": "India Myanmar",
+    "Map": ""
+  },
+  {
+    "Empire": "Sambhuvaraya Dynasty",
+    "Established": 1236,
+    "Disestablished": 1375,
+    "Capitals": "Rajagambhiram, Padaveedu",
+    "Languages": "Tamil",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Yajvapala Dynasty",
+    "Established": 1237,
+    "Disestablished": 1289,
+    "Capitals": "Nalapura",
+    "Languages": "-",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Vaghela Dynasty",
+    "Established": 1244,
+    "Disestablished": 1304,
+    "Capitals": "Dholka",
+    "Languages": "Apabhramsa, Old Gujarati, Prakrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Rajahnate of Cebu",
+    "Established": 1250,
+    "Disestablished": 1565,
+    "Capitals": "Singhapala",
+    "Languages": "Cebuano, Malay, Tamil",
+    "TodayPartOf": "Philippines",
+    "Map": ""
+  },
+  {
+    "Empire": "Majapahit Empire",
+    "Established": 1293,
+    "Disestablished": 1527,
+    "Capitals": "Majapahit, Wilwatikta",
+    "Languages": "Old Javanese, Sanskrit",
+    "TodayPartOf": "Indonesia Malaysia Singapore Brunei Thailand Timor Leste Philippines",
+    "Map": ""
+  },
+  {
+    "Empire": "Sena Dynasty (Nepal)",
+    "Established": "13th Century CE",
+    "Disestablished": "18th Century CE",
+    "Capitals": "Makwanpurgadhi, Chaudandi, Palpa",
+    "Languages": "Nepali, Maithili Language, Khas, Bengali, Sanskrit",
+    "TodayPartOf": "Nepal India",
+    "Map": ""
+  },
+  {
+    "Empire": "Reddy Dynasty",
+    "Established": 1325,
+    "Disestablished": 1448,
+    "Capitals": "Addanki, Kondavidu, Rajahmundry",
+    "Languages": "Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Musunuri Nayakas",
+    "Established": 1150,
+    "Disestablished": 1369,
+    "Capitals": "Warangal",
+    "Languages": "Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Vijayanagara Empire",
+    "Established": 1336,
+    "Disestablished": 1646,
+    "Capitals": "Vijayanagara, Penukonda, Chandragiri",
+    "Languages": "Kannada, Sanskrit, Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Oiniwar Dynasty",
+    "Established": 1353,
+    "Disestablished": 1526,
+    "Capitals": "Madhubani",
+    "Languages": "Maithili language",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kallala dynasty",
+    "Established": 1404,
+    "Disestablished": 1789,
+    "Capitals": "Sinja Valley",
+    "Languages": "Khas language, Nepali, Sanskrit",
+    "TodayPartOf": "Nepal India",
+    "Map": ""
+  },
+  {
+    "Empire": "Gajapati Kingdom",
+    "Established": 1434,
+    "Disestablished": 1541,
+    "Capitals": "Cuttack",
+    "Languages": "Odia",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Koch Dynasty",
+    "Established": 1515,
+    "Disestablished": 1949,
+    "Capitals": "Chikana, Kamatapur",
+    "Languages": "Kamtapuri, Assamese, Bengali, Sanskrit",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Madurai Nayak Dynasty",
+    "Established": 1529,
+    "Disestablished": 1736,
+    "Capitals": "Madurai, Tiruchirapalli",
+    "Languages": "Tamil, Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Thanjavur Nayak Kingdom",
+    "Established": 1532,
+    "Disestablished": 1673,
+    "Capitals": "Thanjavur",
+    "Languages": "Tamil, Telugu",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Gorkha Kingdom",
+    "Established": 1559,
+    "Disestablished": 1768,
+    "Capitals": "Gorkha Darbar",
+    "Languages": "Nepali",
+    "TodayPartOf": "Nepal",
+    "Map": ""
+  },
+  {
+    "Empire": "Raj Darbhanga",
+    "Established": 1577,
+    "Disestablished": 1947,
+    "Capitals": "Darbhanga",
+    "Languages": "Maithili",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Maratha Empire",
+    "Established": 1674,
+    "Disestablished": 1818,
+    "Capitals": "Raigad, Gingee, Satara, Pune",
+    "Languages": "Marathi, Sanskrit",
+    "TodayPartOf": "India Pakistan",
+    "Map": ""
+  },
+  {
+    "Empire": "Pudukkottai Kingdom",
+    "Established": 1680,
+    "Disestablished": 1800,
+    "Capitals": "Pudukkottai",
+    "Languages": "Tamil",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Sivaganga Kingdom",
+    "Established": 1725,
+    "Disestablished": 1733,
+    "Capitals": "Sivaganga",
+    "Languages": "Tamil",
+    "TodayPartOf": "India",
+    "Map": ""
+  },
+  {
+    "Empire": "Kingdom of Nepal",
+    "Established": 1768,
+    "Disestablished": 2008,
+    "Capitals": "Kathmandu",
+    "Languages": "Nepali, Sanskrit",
+    "TodayPartOf": "Nepal India China Bangladesh",
+    "Map": ""
+  },
+  {
+    "Empire": "Dogra Dynasty",
+    "Established": 1846,
+    "Disestablished": 1952,
+    "Capitals": "Srinagar",
+    "Languages": "Kashmiri",
+    "TodayPartOf": "India Pakistan China",
+    "Map": ""
+  }
+]
